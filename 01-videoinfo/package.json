@@ -1,0 +1,13 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "electron": "^2.0.5",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
